@@ -1,2 +1,2 @@
 # hello-world
-Prueba de uso de githug
+Prueba de uso de github
